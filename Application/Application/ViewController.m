@@ -28,4 +28,8 @@
     [super didReceiveMemoryWarning];
 }
 
+- (void)addToTestPullRequest7 {
+    
+}
+
 @end
