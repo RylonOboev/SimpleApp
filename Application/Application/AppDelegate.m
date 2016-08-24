@@ -20,4 +20,8 @@
     return YES;
 }
 
+- (void) newAPI_inAppDelegate {
+    
+}
+
 @end
