@@ -21,7 +21,7 @@
         //view did load
         //added fork line
     
-        //new line
+        //new fork line
 }
 
 - (void)didReceiveMemoryWarning {
