@@ -22,6 +22,15 @@
         //added fork line
     
         //new fork line
+    
+        //new 8 fork line
+        //new 8.1 fork line
+        //new 8.2 fork line
+
+        //new 8.3 fork line
+        //new 8.4 fork line
+        //new 8.5 fork line
+        //new 8.6 fork line
 }
 
 - (void)didReceiveMemoryWarning {
@@ -29,6 +38,14 @@
 }
 
 - (void)addToTestPullRequest7 {
+    
+}
+
+- (void) addedAPI {
+    
+}
+
+- (void) newAPI {
     
 }
 
